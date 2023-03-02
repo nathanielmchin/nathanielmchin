@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathanielmchin
 - 👀 I’m interested in making life easier (process automation) and seeing the world through new perspectives.
-- 🌱 I’m currently learning PowerShell, C#, .NET.
+- 🌱 I’m currently learning PowerShell, C#, .NET., python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Nathaniel.m.chin@gmail.com
 
